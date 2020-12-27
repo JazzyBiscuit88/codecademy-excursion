@@ -1,6 +1,22 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
 h1 {
-    font-family: Veranda;
+    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
-    /* color: white; */
+    color: white;
     text-align: center;
+}
+
+.dl-excursion-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
